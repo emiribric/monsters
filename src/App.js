@@ -45,7 +45,7 @@ class App extends Component {
           placeholder='search monsters' 
           onChange={e => this.setState({ searchField: e.target.value })} 
         /> */}
-        <h1>Monsters Rolodex (React Mini Project)</h1>
+        <h1>Monsters (React Mini Project)</h1>
         <p className='plain-text'>Your search term: <span className='white-text'>{ searchField }</span></p>
         
         <SearchBox 
