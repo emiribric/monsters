@@ -42,3 +42,13 @@ h1 {
   font-size: 72px;
   color: #0ccac4;
 }
+
+.plain-text {
+  font-family: 'Bigelow Rules';
+  font-size: 42px;
+  color: #0ccac4;
+}
+
+.white-text {
+  color: lightgreen;
+}
